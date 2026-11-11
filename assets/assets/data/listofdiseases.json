@@ -1,0 +1,22 @@
+[
+  {
+    "diseases": [
+      "Bowel tumor سرطان بالامعاء",
+      "Ulcerative colitis التهاب القولون التقرحي",
+      "Crohn's disease مرض كرون",
+      "Celiac disease حساسية الحنطة",
+      "Diverticulosis رداب قولوني",
+      "Hypertension and/or heart diseases او امراض قلبية ضغط",
+      "GIT disorders امراض الجهاز الهضمي",
+      "Rheumatological pain or disorders الام او امراض المفاصل",
+      "Anemia فقر الدم",
+      "Psychatric disorder امراض نفسية",
+      "Glaucoma ارتفاع ضغط العين او الماء الاسود",
+      "Prostate hypertrophy تضخم البروستات",
+      "Intestinal obstruction or pyloric stenosis انسداد بالامعاء",
+      "Hepatic impairment فشل كبدي",
+      "Allergy  or sinusitis الحساسية او الجيوب الانفية",
+      "Other diseases أمراض أخرى"
+    ]
+  }
+]
